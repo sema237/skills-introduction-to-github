@@ -1,2 +1,3 @@
 Welcome to my profile page
-EEverything is here would be trashed shortly
+Everything is here would be trashed shortly
+Making another change to correct title error
